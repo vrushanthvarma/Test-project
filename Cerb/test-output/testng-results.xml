@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25396" started-at="2020-05-21T16:42:55 ADT" finished-at="2020-05-21T16:43:20 ADT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25396" started-at="2020-05-21T16:42:55 ADT" finished-at="2020-05-21T16:43:20 ADT">
+      <class name="cerbApplication.Cerb.TestCases">
+        <test-method status="PASS" signature="startApplicationTest()[pri:0, instance:cerbApplication.Cerb.TestCases@74650e52]" name="startApplicationTest" is-config="true" duration-ms="7054" started-at="2020-05-21T16:42:55 ADT" finished-at="2020-05-21T16:43:02 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplicationTest -->
+        <test-method status="PASS" signature="dateselect()[pri:0, instance:cerbApplication.Cerb.TestCases@74650e52]" name="dateselect" duration-ms="18295" started-at="2020-05-21T16:43:02 ADT" finished-at="2020-05-21T16:43:20 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateselect -->
+      </class> <!-- cerbApplication.Cerb.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+[0519/172132.753:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir11312_1816246638\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0519/201332.941:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir11728_797640854\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0519/203648.570:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir940_1621781744\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0519/224210.214:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir10488_1131834819\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0520/231438.205:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir7376_115997449\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0521/154333.322:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir8824_802557191\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0521/160523.813:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir2604_1012266448\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0521/172026.538:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir2700_918676508\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0521/174458.101:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/174458.129:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/174458.185:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/174458.190:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/174458.510:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/193046.996:ERROR:file_io_win.cc(179)] CreateFile C:\Users\RAGHUR~1\AppData\Local\Temp\scoped_dir7356_483801183\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
